@@ -35,18 +35,15 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 ### Figure -01 difference between P-P , joint and linear interpolation 
 
 
-### Program : 
-DART studio screen shots for linear interpolation 
+## Program : 
+### DART studio screen shots for linear interpolation:
+###  Linear Interpolation:
+![linear](https://user-images.githubusercontent.com/94173664/204701213-a01f2cb3-6d8a-4ca8-910d-12dbbc015326.jpg)
 
 
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
+### DART studio screen shots for joint interpolation:
+### Circular Interpolation:
+![image](https://user-images.githubusercontent.com/94173664/204701313-88df3ec5-4521-4790-bf40-e0b9b09a62af.png)
 
 
 
