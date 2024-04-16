@@ -50,9 +50,8 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ![image](https://github.com/Kishorekumar22060/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/141472136/9789db3f-ab7b-4eae-b246-8c99505821a4)
 
-![Uploading image.png…]()
+![move1](https://user-images.githubusercontent.com/94173664/204701342-3e3b0dc4-4aad-4397-865e-3c117b7b9cf8.jpg)
 
-![Uploading image.png…]()
 
 
 
