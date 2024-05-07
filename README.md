@@ -1,5 +1,8 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-
+## DATE :15-04-2024
+## NAME :KISHORE KUMAR U																			             
+## ROLLNUMBER :212222233003
+## DEPARTMENT :AIDS
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
